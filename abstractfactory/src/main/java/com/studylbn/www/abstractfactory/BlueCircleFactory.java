@@ -14,8 +14,7 @@ public class BlueCircleFactory extends Factory {
 
     @Override
     public Color createColor() {
-        Log.e("a","a");
-
+        Log.e("a","aaa");
         return new BlueColor();
     }
 }
