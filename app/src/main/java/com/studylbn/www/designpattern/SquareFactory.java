@@ -8,6 +8,5 @@ public class SquareFactory extends Factory {
     @Override
     public Shape create() {
         return new Square();
-
     }
 }
