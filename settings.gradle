@@ -1,1 +1,1 @@
-include ':app', ':abstractfactory', ':strategypattern'
+include ':app', ':abstractfactory', ':strategypattern', ':algorithm'
